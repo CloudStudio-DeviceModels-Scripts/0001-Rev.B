@@ -1,11 +1,11 @@
 
-# Parsing + Configuration Script – 0001 - Rev. B
+# Parsing Script – 0001 - Rev. B
 
-This **Parsing + Configuration** script is designed for the **0001** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
+This **Parsing** script is designed for the **0001** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
 
 ## 🧩 Script Type
 
-- **Type**: Parsing + Configuration
+- **Type**: Parsing
 
 ## ⚙️ Description
 
@@ -27,13 +27,13 @@ These functions enable extended integration capabilities in Cloud Studio, suppor
 
 ---
 
-# Script de Parsing + Configuration – 0001 Rev. B
+# Script de Parsing – 0001 Rev. B
 
-Este script de **Parsing + Configuration** está diseñado para el modelo **0001** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
+Este script de **Parsing** está diseñado para el modelo **0001** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
 
 ## 🧩 Tipo de Script
 
-- **Tipo**: Parsing + Configuration
+- **Tipo**: Parsing
 
 ## ⚙️ Descripción
 
